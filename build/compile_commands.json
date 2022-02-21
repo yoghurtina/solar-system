@@ -1,0 +1,167 @@
+[
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/main.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/main.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/main.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/util.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/util.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/util.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/shader.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/shader.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/shader.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/camera.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/camera.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/camera.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/model.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/model.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/model.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/texture.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/texture.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/texture.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/light.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/light.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/light.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/skybox.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/skybox.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/skybox.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/asteroid.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/asteroid.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/asteroid.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/planet.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/planet.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/planet.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/satelite.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/satelite.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/satelite.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glm-0.9.7.1 -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyobjloader/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/. -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include  -std=c++11 -g -o CMakeFiles/project.dir/src/common/particle.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/particle.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/src/common/particle.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include  -std=c++11 -g -o CMakeFiles/TINYXML2.dir/tinyxml2/src/tinyxml2.cpp.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/src/tinyxml2.cpp",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/src/tinyxml2.cpp"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/tinyxml2/include  -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/src/glew.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/src/glew.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/context.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/context.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/init.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/init.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/input.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/input.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/monitor.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/monitor.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/vulkan.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/vulkan.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/window.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/window.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/x11_init.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/x11_init.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/x11_init.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/x11_monitor.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/x11_monitor.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/x11_window.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/x11_window.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/x11_window.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/xkb_unicode.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/linux_joystick.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/linux_joystick.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/posix_time.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/posix_time.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/posix_time.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/posix_tls.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/posix_tls.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/posix_tls.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/glx_context.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/glx_context.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/glx_context.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/glfw-3.2.1/src -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/egl_context.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/src/egl_context.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/Simple-OpenGL-Image-Library",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include  -o CMakeFiles/SOIL.dir/src/SOIL.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/SOIL.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/SOIL.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/Simple-OpenGL-Image-Library",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include  -o CMakeFiles/SOIL.dir/src/image_DXT.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/image_DXT.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/image_DXT.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/Simple-OpenGL-Image-Library",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include  -o CMakeFiles/SOIL.dir/src/image_helper.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/image_helper.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/image_helper.c"
+},
+{
+  "directory": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/build/external/Simple-OpenGL-Image-Library",
+  "command": "/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glfw-3.2.1/include/GLFW -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/glew-1.13.0/include -I/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/include  -o CMakeFiles/SOIL.dir/src/stb_image_aug.c.o -c /home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c",
+  "file": "/home/ioanna/Desktop/reportsGraphics/SolarSystem/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c"
+}
+]

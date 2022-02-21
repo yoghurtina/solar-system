@@ -1,0 +1,20 @@
+#version 330 core
+layout(location = 0) in vec3 vertexPosition_modelspace;
+layout(location = 1) in vec3 vertexNormal_modelspace;
+layout(location = 2) in vec2 vertexUV;
+
+out vec2 TexCoords;
+
+uniform mat4 VP;
+uniform mat4 M;
+//uniform mat4 M[100];
+
+void main()
+{
+    //mat4 i_m = M[gl_InstanceID];
+
+    mat4 i_m = M;
+
+    TexCoords = vertexUV;
+    gl_Position = VP * i_m * vec4(vertexPosition_modelspace, 1.0f);
+}
