@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "libTINYXML2.a"
-)
